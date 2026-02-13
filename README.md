@@ -3,8 +3,8 @@ This is a temporary repository created for the SIGIR 2026 submission of FakeRM. 
 
 
 # License
-Data license: CC BY 4.0
+## Data license: CC BY 4.0
 
-Code license: MIT
+## Code license: MIT
 
 Our annotations are released under "CC BY 4.0". We do not redistribute any New York Times copyrighted content; the dataset provides only URLs/IDs pointing to the original sources, which remain governed by their respective terms of use.
