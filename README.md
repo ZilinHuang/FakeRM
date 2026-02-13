@@ -3,7 +3,9 @@ This is a temporary repository created for the SIGIR 2026 submission of FakeRM. 
 
 
 # License
-Data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+© 2026. This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Code is licensed under the [MIT License](./LICENSE).
 
