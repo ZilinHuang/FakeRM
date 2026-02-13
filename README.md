@@ -5,6 +5,8 @@ This is a temporary repository created for the SIGIR 2026 submission of FakeRM. 
 # License
 Data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Code license: MIT
+// SPDX-License-Identifier: MIT
+Code is licensed under the [MIT License](./LICENSE).
+
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
